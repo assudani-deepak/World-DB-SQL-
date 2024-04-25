@@ -15,6 +15,11 @@ This project focuses on querying a world population database using SQL to retrie
 This README provides an overview of the project, outlining its objectives and the types of queries implemented. For detailed instructions on executing queries or any other aspect of the project, please refer to the project documentation or reach out to the project owner.
 
 
+EER diagram
+
+![EER](https://github.com/assudani-deepak/World-DB-SQL-/assets/168087466/8f1be6d6-5afc-46bf-abbc-fe5b22ad8124)
+
+
 Using JOIN and GROUP BY to display a list of non-repeating rows from 2 tables
 
 ![SQL.join.group](https://github.com/assudani-deepak/World-DB-SQL-/assets/168087466/4ab84589-8f8c-4b6b-b4d7-0d5cb8e34ecd)
